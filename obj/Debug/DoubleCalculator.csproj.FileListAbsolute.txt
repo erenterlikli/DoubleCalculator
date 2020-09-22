@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.exe.config
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.exe
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\bin\Debug\DoubleCalculator.pdb
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.Form1.resources
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.Properties.Resources.resources
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.exe
+C:\Users\Eren\source\repos\DoubleCalculator\DoubleCalculator\obj\Debug\DoubleCalculator.pdb
